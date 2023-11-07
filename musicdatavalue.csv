@@ -1,0 +1,800 @@
+format,metric,year,number_of_records,value_actual
+CD,Value (Adjusted),1973,1,0
+CD,Value (Adjusted),1974,1,0
+CD,Value (Adjusted),1975,1,0
+CD,Value (Adjusted),1976,1,0
+CD,Value (Adjusted),1977,1,0
+CD,Value (Adjusted),1978,1,0
+CD,Value (Adjusted),1979,1,0
+CD,Value (Adjusted),1980,1,0
+CD,Value (Adjusted),1981,1,0
+CD,Value (Adjusted),1982,1,0
+CD,Value (Adjusted),1983,1,44.14960241
+CD,Value (Adjusted),1984,1,254.180636189
+CD,Value (Adjusted),1985,1,925.449828067
+CD,Value (Adjusted),1986,1,2169.585544708
+CD,Value (Adjusted),1987,1,3586.399605634
+CD,Value (Adjusted),1988,1,4516.462927303
+CD,Value (Adjusted),1989,1,5335.190475
+CD,Value (Adjusted),1990,1,6751.53558684
+CD,Value (Adjusted),1991,1,8142.168640969
+CD,Value (Adjusted),1992,1,9706.037138275
+CD,Value (Adjusted),1993,1,11520.311348097
+CD,Value (Adjusted),1994,1,14601.947884615
+CD,Value (Adjusted),1995,1,15730.957688976
+CD,Value (Adjusted),1996,1,16187.862319312
+CD,Value (Adjusted),1997,1,15793.549661682
+CD,Value (Adjusted),1998,1,17905.400687117
+CD,Value (Adjusted),1999,1,19667.327785714
+CD,Value (Adjusted),2000,1,19618.928144599
+CD,Value (Adjusted),2001,1,18635.67744664
+CD,Value (Adjusted),2002,1,17115.944823235
+CD,Value (Adjusted),2003,1,15607.443017935
+CD,Value (Adjusted),2004,1,15491.677345156
+CD,Value (Adjusted),2005,1,13771.442761905
+CD,Value (Adjusted),2006,1,11885.767848214
+CD,Value (Adjusted),2007,1,9190.702658466
+CD,Value (Adjusted),2008,1,6496.779627316
+CD,Value (Adjusted),2009,1,5146.578220074
+CD,Value (Adjusted),2010,1,3973.859172873
+CD,Value (Adjusted),2011,1,3524.136143132
+CD,Value (Adjusted),2012,1,2767.776148872
+CD,Value (Adjusted),2013,1,2349.534897314
+CD,Value (Adjusted),2014,1,1918.215114615
+CD,Value (Adjusted),2015,1,1558.633451938
+CD,Value (Adjusted),2016,1,1204.497778348
+CD,Value (Adjusted),2017,1,1102.77435245
+CD,Value (Adjusted),2018,1,711.041239463
+CD,Value (Adjusted),2019,1,614.509779894
+CD Single,Value (Adjusted),1973,1,0
+CD Single,Value (Adjusted),1974,1,0
+CD Single,Value (Adjusted),1975,1,0
+CD Single,Value (Adjusted),1976,1,0
+CD Single,Value (Adjusted),1977,1,0
+CD Single,Value (Adjusted),1978,1,0
+CD Single,Value (Adjusted),1979,1,0
+CD Single,Value (Adjusted),1980,1,0
+CD Single,Value (Adjusted),1981,1,0
+CD Single,Value (Adjusted),1982,1,0
+CD Single,Value (Adjusted),1983,1,0
+CD Single,Value (Adjusted),1984,1,0
+CD Single,Value (Adjusted),1985,1,0
+CD Single,Value (Adjusted),1986,1,0
+CD Single,Value (Adjusted),1987,1,0
+CD Single,Value (Adjusted),1988,1,21.178686391
+CD Single,Value (Adjusted),1989,1,-1.443225
+CD Single,Value (Adjusted),1990,1,11.736358072
+CD Single,Value (Adjusted),1991,1,65.885174009
+CD Single,Value (Adjusted),1992,1,82.181972202
+CD Single,Value (Adjusted),1993,1,81.031768858
+CD Single,Value (Adjusted),1994,1,96.77704251
+CD Single,Value (Adjusted),1995,1,186.039116142
+CD Single,Value (Adjusted),1996,1,299.977397706
+CD Single,Value (Adjusted),1997,1,434.377968224
+CD Single,Value (Adjusted),1998,1,334.393082209
+CD Single,Value (Adjusted),1999,1,341.285214886
+CD Single,Value (Adjusted),2000,1,211.859778746
+CD Single,Value (Adjusted),2001,1,114.619795596
+CD Single,Value (Adjusted),2002,1,27.853680934
+CD Single,Value (Adjusted),2003,1,50.019847826
+CD Single,Value (Adjusted),2004,1,20.300979354
+CD Single,Value (Adjusted),2005,1,14.268619048
+CD Single,Value (Adjusted),2006,1,9.764677083
+CD Single,Value (Adjusted),2007,1,15.045901592
+CD Single,Value (Adjusted),2008,1,4.156001078
+CD Single,Value (Adjusted),2009,1,3.694172567
+CD Single,Value (Adjusted),2010,1,3.400068331
+CD Single,Value (Adjusted),2011,1,3.977965137
+CD Single,Value (Adjusted),2012,1,3.59119832
+CD Single,Value (Adjusted),2013,1,2.684056894
+CD Single,Value (Adjusted),2014,1,3.905023683
+CD Single,Value (Adjusted),2015,1,1.291079457
+CD Single,Value (Adjusted),2016,1,0.280361354
+CD Single,Value (Adjusted),2017,1,1.542258972
+CD Single,Value (Adjusted),2018,1,0.157981482
+CD Single,Value (Adjusted),2019,1,0.181678878
+Cassette,Value (Adjusted),1973,1,437.611081081
+Cassette,Value (Adjusted),1974,1,452.196559838
+Cassette,Value (Adjusted),1975,1,469.496498141
+Cassette,Value (Adjusted),1976,1,654.643671353
+Cassette,Value (Adjusted),1977,1,1053.003089109
+Cassette,Value (Adjusted),1978,1,1763.719610429
+Cassette,Value (Adjusted),1979,1,2044.551710744
+Cassette,Value (Adjusted),1980,1,2187.356614078
+Cassette,Value (Adjusted),1981,1,2989.133768977
+Cassette,Value (Adjusted),1982,1,3667.949393782
+Cassette,Value (Adjusted),1983,1,4648.285756024
+Cassette,Value (Adjusted),1984,1,5865.839483157
+Cassette,Value (Adjusted),1985,1,5729.710552974
+Cassette,Value (Adjusted),1986,1,5830.425834854
+Cassette,Value (Adjusted),1987,1,6660.810060739
+Cassette,Value (Adjusted),1988,1,7315.507275571
+Cassette,Value (Adjusted),1989,1,6898.20315
+Cassette,Value (Adjusted),1990,1,6792.221628156
+Cassette,Value (Adjusted),1991,1,5668.002035242
+Cassette,Value (Adjusted),1992,1,5678.573835353
+Cassette,Value (Adjusted),1993,1,5158.786716955
+Cassette,Value (Adjusted),1994,1,5134.531004049
+Cassette,Value (Adjusted),1995,1,3864.379692913
+Cassette,Value (Adjusted),1996,1,3104.54609369
+Cassette,Value (Adjusted),1997,1,2425.476099065
+Cassette,Value (Adjusted),1998,1,2227.039106135
+Cassette,Value (Adjusted),1999,1,1629.084460984
+Cassette,Value (Adjusted),2000,1,929.391881533
+Cassette,Value (Adjusted),2001,1,524.594883117
+Cassette,Value (Adjusted),2002,1,298.148074486
+Cassette,Value (Adjusted),2003,1,150.1984875
+Cassette,Value (Adjusted),2004,1,32.07554738
+Cassette,Value (Adjusted),2005,1,17.14852381
+Cassette,Value (Adjusted),2006,1,4.69211756
+Cassette,Value (Adjusted),2007,1,3.699811867
+Cassette,Value (Adjusted),2008,1,1.068685991
+Cassette,Value (Adjusted),2009,1,0
+Cassette,Value (Adjusted),2010,1,0
+Cassette,Value (Adjusted),2011,1,0
+Cassette,Value (Adjusted),2012,1,0
+Cassette,Value (Adjusted),2013,1,0
+Cassette,Value (Adjusted),2014,1,0
+Cassette,Value (Adjusted),2015,1,0
+Cassette,Value (Adjusted),2016,1,0
+Cassette,Value (Adjusted),2017,1,0
+Cassette,Value (Adjusted),2018,1,0
+Cassette,Value (Adjusted),2019,1,0
+Cassette Single,Value (Adjusted),1973,1,0
+Cassette Single,Value (Adjusted),1974,1,0
+Cassette Single,Value (Adjusted),1975,1,0
+Cassette Single,Value (Adjusted),1976,1,0
+Cassette Single,Value (Adjusted),1977,1,0
+Cassette Single,Value (Adjusted),1978,1,0
+Cassette Single,Value (Adjusted),1979,1,0
+Cassette Single,Value (Adjusted),1980,1,0
+Cassette Single,Value (Adjusted),1981,1,0
+Cassette Single,Value (Adjusted),1982,1,0
+Cassette Single,Value (Adjusted),1983,1,0
+Cassette Single,Value (Adjusted),1984,1,0
+Cassette Single,Value (Adjusted),1985,1,0
+Cassette Single,Value (Adjusted),1986,1,0
+Cassette Single,Value (Adjusted),1987,1,32.182175176
+Cassette Single,Value (Adjusted),1988,1,123.830482671
+Cassette Single,Value (Adjusted),1989,1,401.21655
+Cassette Single,Value (Adjusted),1990,1,504.467791125
+Cassette Single,Value (Adjusted),1991,1,432.477039648
+Cassette Single,Value (Adjusted),1992,1,544.47834355
+Cassette Single,Value (Adjusted),1993,1,528.121899654
+Cassette Single,Value (Adjusted),1994,1,474.224759109
+Cassette Single,Value (Adjusted),1995,1,396.40255315
+Cassette Single,Value (Adjusted),1996,1,308.450414914
+Cassette Single,Value (Adjusted),1997,1,212.649280374
+Cassette Single,Value (Adjusted),1998,1,148.061477301
+Cassette Single,Value (Adjusted),1999,1,73.658679472
+Cassette Single,Value (Adjusted),2000,1,6.829397213
+Cassette Single,Value (Adjusted),2001,1,-7.650943535
+Cassette Single,Value (Adjusted),2002,1,-2.273769872
+Cassette Single,Value (Adjusted),2003,1,0
+Cassette Single,Value (Adjusted),2004,1,0
+Cassette Single,Value (Adjusted),2005,1,0
+Cassette Single,Value (Adjusted),2006,1,0
+Cassette Single,Value (Adjusted),2007,1,0
+Cassette Single,Value (Adjusted),2008,1,0
+Cassette Single,Value (Adjusted),2009,1,0
+Cassette Single,Value (Adjusted),2010,1,0
+Cassette Single,Value (Adjusted),2011,1,0
+Cassette Single,Value (Adjusted),2012,1,0
+Cassette Single,Value (Adjusted),2013,1,0
+Cassette Single,Value (Adjusted),2014,1,0
+Cassette Single,Value (Adjusted),2015,1,0
+Cassette Single,Value (Adjusted),2016,1,0
+Cassette Single,Value (Adjusted),2017,1,0
+Cassette Single,Value (Adjusted),2018,1,0
+Cassette Single,Value (Adjusted),2019,1,0
+Download Album,Value (Adjusted),1973,1,0
+Download Album,Value (Adjusted),1974,1,0
+Download Album,Value (Adjusted),1975,1,0
+Download Album,Value (Adjusted),1976,1,0
+Download Album,Value (Adjusted),1977,1,0
+Download Album,Value (Adjusted),1978,1,0
+Download Album,Value (Adjusted),1979,1,0
+Download Album,Value (Adjusted),1980,1,0
+Download Album,Value (Adjusted),1981,1,0
+Download Album,Value (Adjusted),1982,1,0
+Download Album,Value (Adjusted),1983,1,0
+Download Album,Value (Adjusted),1984,1,0
+Download Album,Value (Adjusted),1985,1,0
+Download Album,Value (Adjusted),1986,1,0
+Download Album,Value (Adjusted),1987,1,0
+Download Album,Value (Adjusted),1988,1,0
+Download Album,Value (Adjusted),1989,1,0
+Download Album,Value (Adjusted),1990,1,0
+Download Album,Value (Adjusted),1991,1,0
+Download Album,Value (Adjusted),1992,1,0
+Download Album,Value (Adjusted),1993,1,0
+Download Album,Value (Adjusted),1994,1,0
+Download Album,Value (Adjusted),1995,1,0
+Download Album,Value (Adjusted),1996,1,0
+Download Album,Value (Adjusted),1997,1,0
+Download Album,Value (Adjusted),1998,1,0
+Download Album,Value (Adjusted),1999,1,0
+Download Album,Value (Adjusted),2000,1,0
+Download Album,Value (Adjusted),2001,1,0
+Download Album,Value (Adjusted),2002,1,0
+Download Album,Value (Adjusted),2003,1,0
+Download Album,Value (Adjusted),2004,1,61.579637374
+Download Album,Value (Adjusted),2005,1,177.637761905
+Download Album,Value (Adjusted),2006,1,349.879793155
+Download Album,Value (Adjusted),2007,1,613.428807525
+Download Album,Value (Adjusted),2008,1,754.37356702
+Download Album,Value (Adjusted),2009,1,886.958916644
+Download Album,Value (Adjusted),2010,1,1022.834348975
+Download Album,Value (Adjusted),2011,1,1217.030019694
+Download Album,Value (Adjusted),2012,1,1341.590982606
+Download Album,Value (Adjusted),2013,1,1352.2029528
+Download Album,Value (Adjusted),2014,1,1207.24757771
+Download Album,Value (Adjusted),2015,1,1148.145080643
+Download Album,Value (Adjusted),2016,1,925.232200992
+Download Album,Value (Adjusted),2017,1,697.237618181
+Download Album,Value (Adjusted),2018,1,508.704388424
+Download Album,Value (Adjusted),2019,1,394.533006158
+Download Music Video,Value (Adjusted),1973,1,0
+Download Music Video,Value (Adjusted),1974,1,0
+Download Music Video,Value (Adjusted),1975,1,0
+Download Music Video,Value (Adjusted),1976,1,0
+Download Music Video,Value (Adjusted),1977,1,0
+Download Music Video,Value (Adjusted),1978,1,0
+Download Music Video,Value (Adjusted),1979,1,0
+Download Music Video,Value (Adjusted),1980,1,0
+Download Music Video,Value (Adjusted),1981,1,0
+Download Music Video,Value (Adjusted),1982,1,0
+Download Music Video,Value (Adjusted),1983,1,0
+Download Music Video,Value (Adjusted),1984,1,0
+Download Music Video,Value (Adjusted),1985,1,0
+Download Music Video,Value (Adjusted),1986,1,0
+Download Music Video,Value (Adjusted),1987,1,0
+Download Music Video,Value (Adjusted),1988,1,0
+Download Music Video,Value (Adjusted),1989,1,0
+Download Music Video,Value (Adjusted),1990,1,0
+Download Music Video,Value (Adjusted),1991,1,0
+Download Music Video,Value (Adjusted),1992,1,0
+Download Music Video,Value (Adjusted),1993,1,0
+Download Music Video,Value (Adjusted),1994,1,0
+Download Music Video,Value (Adjusted),1995,1,0
+Download Music Video,Value (Adjusted),1996,1,0
+Download Music Video,Value (Adjusted),1997,1,0
+Download Music Video,Value (Adjusted),1998,1,0
+Download Music Video,Value (Adjusted),1999,1,0
+Download Music Video,Value (Adjusted),2000,1,0
+Download Music Video,Value (Adjusted),2001,1,0
+Download Music Video,Value (Adjusted),2002,1,0
+Download Music Video,Value (Adjusted),2003,1,0
+Download Music Video,Value (Adjusted),2004,1,0
+Download Music Video,Value (Adjusted),2005,1,4.84347619
+Download Music Video,Value (Adjusted),2006,1,24.982355655
+Download Music Video,Value (Adjusted),2007,1,34.778231548
+Download Music Video,Value (Adjusted),2008,1,49.040812715
+Download Music Video,Value (Adjusted),2009,1,48.739244513
+Download Music Video,Value (Adjusted),2010,1,42.911207213
+Download Music Video,Value (Adjusted),2011,1,36.824591556
+Download Music Video,Value (Adjusted),2012,1,23.208206935
+Download Music Video,Value (Adjusted),2013,1,18.372074986
+Download Music Video,Value (Adjusted),2014,1,14.662197203
+Download Music Video,Value (Adjusted),2015,1,6.918875516
+Download Music Video,Value (Adjusted),2016,1,4.547792467
+Download Music Video,Value (Adjusted),2017,1,2.905533136
+Download Music Video,Value (Adjusted),2018,1,2.261051168
+Download Music Video,Value (Adjusted),2019,1,1.858910402
+Download Single,Value (Adjusted),1973,1,0
+Download Single,Value (Adjusted),1974,1,0
+Download Single,Value (Adjusted),1975,1,0
+Download Single,Value (Adjusted),1976,1,0
+Download Single,Value (Adjusted),1977,1,0
+Download Single,Value (Adjusted),1978,1,0
+Download Single,Value (Adjusted),1979,1,0
+Download Single,Value (Adjusted),1980,1,0
+Download Single,Value (Adjusted),1981,1,0
+Download Single,Value (Adjusted),1982,1,0
+Download Single,Value (Adjusted),1983,1,0
+Download Single,Value (Adjusted),1984,1,0
+Download Single,Value (Adjusted),1985,1,0
+Download Single,Value (Adjusted),1986,1,0
+Download Single,Value (Adjusted),1987,1,0
+Download Single,Value (Adjusted),1988,1,0
+Download Single,Value (Adjusted),1989,1,0
+Download Single,Value (Adjusted),1990,1,0
+Download Single,Value (Adjusted),1991,1,0
+Download Single,Value (Adjusted),1992,1,0
+Download Single,Value (Adjusted),1993,1,0
+Download Single,Value (Adjusted),1994,1,0
+Download Single,Value (Adjusted),1995,1,0
+Download Single,Value (Adjusted),1996,1,0
+Download Single,Value (Adjusted),1997,1,0
+Download Single,Value (Adjusted),1998,1,0
+Download Single,Value (Adjusted),1999,1,0
+Download Single,Value (Adjusted),2000,1,0
+Download Single,Value (Adjusted),2001,1,0
+Download Single,Value (Adjusted),2002,1,0
+Download Single,Value (Adjusted),2003,1,0
+Download Single,Value (Adjusted),2004,1,186.769010058
+Download Single,Value (Adjusted),2005,1,475.577
+Download Single,Value (Adjusted),2006,1,736.282014881
+Download Single,Value (Adjusted),2007,1,1000.182474674
+Download Single,Value (Adjusted),2008,1,1225.664089214
+Download Single,Value (Adjusted),2009,1,1396.635564029
+Download Single,Value (Adjusted),2010,1,1566.845281946
+Download Single,Value (Adjusted),2011,1,1730.301178542
+Download Single,Value (Adjusted),2012,1,1831.258645554
+Download Single,Value (Adjusted),2013,1,1726.739156044
+Download Single,Value (Adjusted),2014,1,1463.655387096
+Download Single,Value (Adjusted),2015,1,1278.449595315
+Download Single,Value (Adjusted),2016,1,958.87910313
+Download Single,Value (Adjusted),2017,1,707.692711218
+Download Single,Value (Adjusted),2018,1,499.316974193
+Download Single,Value (Adjusted),2019,1,414.804250982
+LP/EP,Value (Adjusted),1973,1,7174.518513514
+LP/EP,Value (Adjusted),1974,1,7031.863935091
+LP/EP,Value (Adjusted),1975,1,7056.703438662
+LP/EP,Value (Adjusted),1976,1,7472.013901582
+LP/EP,Value (Adjusted),1977,1,9260.605292079
+LP/EP,Value (Adjusted),1978,1,9698.105185583
+LP/EP,Value (Adjusted),1979,1,7243.615
+LP/EP,Value (Adjusted),1980,1,6825.79368932
+LP/EP,Value (Adjusted),1981,1,6586.050570957
+LP/EP,Value (Adjusted),1982,1,5100.15845285
+LP/EP,Value (Adjusted),1983,1,4335.388283133
+LP/EP,Value (Adjusted),1984,1,3810.987118383
+LP/EP,Value (Adjusted),1985,1,3042.460859665
+LP/EP,Value (Adjusted),1986,1,2292.982034672
+LP/EP,Value (Adjusted),1987,1,1784.872946303
+LP/EP,Value (Adjusted),1988,1,1150.132336433
+LP/EP,Value (Adjusted),1989,1,454.203525
+LP/EP,Value (Adjusted),1990,1,169.199162204
+LP/EP,Value (Adjusted),1991,1,55.185872247
+LP/EP,Value (Adjusted),1992,1,24.59992516
+LP/EP,Value (Adjusted),1993,1,18.754077509
+LP/EP,Value (Adjusted),1994,1,30.706441296
+LP/EP,Value (Adjusted),1995,1,42.106238189
+LP/EP,Value (Adjusted),1996,1,59.962891013
+LP/EP,Value (Adjusted),1997,1,53.042854206
+LP/EP,Value (Adjusted),1998,1,53.327226994
+LP/EP,Value (Adjusted),1999,1,48.79887515
+LP/EP,Value (Adjusted),2000,1,41.124848432
+LP/EP,Value (Adjusted),2001,1,39.5539345
+LP/EP,Value (Adjusted),2002,1,29.132676487
+LP/EP,Value (Adjusted),2003,1,30.150852717
+LP/EP,Value (Adjusted),2004,1,26.120593436
+LP/EP,Value (Adjusted),2005,1,18.58847619
+LP/EP,Value (Adjusted),2006,1,19.909796131
+LP/EP,Value (Adjusted),2007,1,28.24189725
+LP/EP,Value (Adjusted),2008,1,67.327217456
+LP/EP,Value (Adjusted),2009,1,76.028454765
+LP/EP,Value (Adjusted),2010,1,104.229680908
+LP/EP,Value (Adjusted),2011,1,135.705439252
+LP/EP,Value (Adjusted),2012,1,178.967982236
+LP/EP,Value (Adjusted),2013,1,231.274070194
+LP/EP,Value (Adjusted),2014,1,263.336179145
+LP/EP,Value (Adjusted),2015,1,359.598162864
+LP/EP,Value (Adjusted),2016,1,378.607270991
+LP/EP,Value (Adjusted),2017,1,405.212077272
+LP/EP,Value (Adjusted),2018,1,426.820186646
+LP/EP,Value (Adjusted),2019,1,497.588920842
+Limited Tier Paid Subscription,Value (Adjusted),1973,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1974,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1975,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1976,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1977,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1978,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1979,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1980,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1981,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1982,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1983,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1984,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1985,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1986,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1987,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1988,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1989,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1990,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1991,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1992,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1993,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1994,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1995,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1996,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1997,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1998,1,0
+Limited Tier Paid Subscription,Value (Adjusted),1999,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2000,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2001,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2002,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2003,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2004,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2005,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2006,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2007,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2008,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2009,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2010,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2011,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2012,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2013,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2014,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2015,1,0
+Limited Tier Paid Subscription,Value (Adjusted),2016,1,280.536691286
+Limited Tier Paid Subscription,Value (Adjusted),2017,1,617.032317981
+Limited Tier Paid Subscription,Value (Adjusted),2018,1,760.591366006
+Limited Tier Paid Subscription,Value (Adjusted),2019,1,829.498739675
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1973,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1974,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1975,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1976,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1977,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1978,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1979,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1980,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1981,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1982,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1983,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1984,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1985,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1986,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1987,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1988,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1989,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1990,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1991,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1992,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1993,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1994,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1995,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1996,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1997,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1998,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),1999,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2000,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2001,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2002,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2003,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2004,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2005,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2006,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2007,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2008,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2009,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2010,1,0
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2011,1,129.340695033
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2012,1,190.339615647
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2013,1,242.396097837
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2014,1,306.475448007
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2015,1,401.245264147
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2016,1,521.288175026
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2017,1,686.918081261
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2018,1,773.294916688
+On-Demand Streaming (Ad-Supported),Value (Adjusted),2019,1,908.149330523
+Other Ad-Supported Streaming,Value (Adjusted),1973,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1974,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1975,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1976,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1977,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1978,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1979,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1980,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1981,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1982,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1983,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1984,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1985,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1986,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1987,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1988,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1989,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1990,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1991,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1992,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1993,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1994,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1995,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1996,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1997,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1998,1,0
+Other Ad-Supported Streaming,Value (Adjusted),1999,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2000,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2001,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2002,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2003,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2004,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2005,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2006,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2007,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2008,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2009,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2010,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2011,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2012,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2013,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2014,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2015,1,0
+Other Ad-Supported Streaming,Value (Adjusted),2016,1,86.559596683
+Other Ad-Supported Streaming,Value (Adjusted),2017,1,273.040319024
+Other Ad-Supported Streaming,Value (Adjusted),2018,1,255.967443871
+Other Ad-Supported Streaming,Value (Adjusted),2019,1,251.064710118
+Other Digital,Value (Adjusted),1973,1,0
+Other Digital,Value (Adjusted),1974,1,0
+Other Digital,Value (Adjusted),1975,1,0
+Other Digital,Value (Adjusted),1976,1,0
+Other Digital,Value (Adjusted),1977,1,0
+Other Digital,Value (Adjusted),1978,1,0
+Other Digital,Value (Adjusted),1979,1,0
+Other Digital,Value (Adjusted),1980,1,0
+Other Digital,Value (Adjusted),1981,1,0
+Other Digital,Value (Adjusted),1982,1,0
+Other Digital,Value (Adjusted),1983,1,0
+Other Digital,Value (Adjusted),1984,1,0
+Other Digital,Value (Adjusted),1985,1,0
+Other Digital,Value (Adjusted),1986,1,0
+Other Digital,Value (Adjusted),1987,1,0
+Other Digital,Value (Adjusted),1988,1,0
+Other Digital,Value (Adjusted),1989,1,0
+Other Digital,Value (Adjusted),1990,1,0
+Other Digital,Value (Adjusted),1991,1,0
+Other Digital,Value (Adjusted),1992,1,0
+Other Digital,Value (Adjusted),1993,1,0
+Other Digital,Value (Adjusted),1994,1,0
+Other Digital,Value (Adjusted),1995,1,0
+Other Digital,Value (Adjusted),1996,1,0
+Other Digital,Value (Adjusted),1997,1,0
+Other Digital,Value (Adjusted),1998,1,0
+Other Digital,Value (Adjusted),1999,1,0
+Other Digital,Value (Adjusted),2000,1,0
+Other Digital,Value (Adjusted),2001,1,0
+Other Digital,Value (Adjusted),2002,1,0
+Other Digital,Value (Adjusted),2003,1,0
+Other Digital,Value (Adjusted),2004,1,0
+Other Digital,Value (Adjusted),2005,1,0
+Other Digital,Value (Adjusted),2006,1,0
+Other Digital,Value (Adjusted),2007,1,0
+Other Digital,Value (Adjusted),2008,1,0
+Other Digital,Value (Adjusted),2009,1,0
+Other Digital,Value (Adjusted),2010,1,0
+Other Digital,Value (Adjusted),2011,1,0
+Other Digital,Value (Adjusted),2012,1,0
+Other Digital,Value (Adjusted),2013,1,0
+Other Digital,Value (Adjusted),2014,1,0
+Other Digital,Value (Adjusted),2015,1,0
+Other Digital,Value (Adjusted),2016,1,18.259409536
+Other Digital,Value (Adjusted),2017,1,17.610951916
+Other Digital,Value (Adjusted),2018,1,20.199063312
+Other Digital,Value (Adjusted),2019,1,21.517175006
+Other Tapes,Value (Adjusted),1973,1,89.825432432
+Other Tapes,Value (Adjusted),1974,1,68.970346856
+Other Tapes,Value (Adjusted),1975,1,48.470286245
+Other Tapes,Value (Adjusted),1976,1,22.914775044
+Other Tapes,Value (Adjusted),1977,1,0
+Other Tapes,Value (Adjusted),1978,1,0
+Other Tapes,Value (Adjusted),1979,1,0
+Other Tapes,Value (Adjusted),1980,1,0
+Other Tapes,Value (Adjusted),1981,1,0
+Other Tapes,Value (Adjusted),1982,1,0
+Other Tapes,Value (Adjusted),1983,1,0
+Other Tapes,Value (Adjusted),1984,1,0
+Other Tapes,Value (Adjusted),1985,1,0
+Other Tapes,Value (Adjusted),1986,1,0
+Other Tapes,Value (Adjusted),1987,1,0
+Other Tapes,Value (Adjusted),1988,1,0
+Other Tapes,Value (Adjusted),1989,1,0
+Other Tapes,Value (Adjusted),1990,1,0
+Other Tapes,Value (Adjusted),1991,1,0
+Other Tapes,Value (Adjusted),1992,1,0
+Other Tapes,Value (Adjusted),1993,1,0
+Other Tapes,Value (Adjusted),1994,1,0
+Other Tapes,Value (Adjusted),1995,1,0
+Other Tapes,Value (Adjusted),1996,1,0
+Other Tapes,Value (Adjusted),1997,1,0
+Other Tapes,Value (Adjusted),1998,1,0
+Other Tapes,Value (Adjusted),1999,1,0
+Other Tapes,Value (Adjusted),2000,1,0
+Other Tapes,Value (Adjusted),2001,1,0
+Other Tapes,Value (Adjusted),2002,1,0
+Other Tapes,Value (Adjusted),2003,1,0
+Other Tapes,Value (Adjusted),2004,1,0
+Other Tapes,Value (Adjusted),2005,1,0
+Other Tapes,Value (Adjusted),2006,1,0
+Other Tapes,Value (Adjusted),2007,1,0
+Other Tapes,Value (Adjusted),2008,1,0
+Other Tapes,Value (Adjusted),2009,1,0
+Other Tapes,Value (Adjusted),2010,1,0
+Other Tapes,Value (Adjusted),2011,1,0
+Other Tapes,Value (Adjusted),2012,1,0
+Other Tapes,Value (Adjusted),2013,1,0
+Other Tapes,Value (Adjusted),2014,1,0
+Other Tapes,Value (Adjusted),2015,1,0
+Other Tapes,Value (Adjusted),2016,1,0
+Other Tapes,Value (Adjusted),2017,1,0
+Other Tapes,Value (Adjusted),2018,1,0
+Other Tapes,Value (Adjusted),2019,1,0
+Paid Subscription,Value (Adjusted),1973,1,0
+Paid Subscription,Value (Adjusted),1974,1,0
+Paid Subscription,Value (Adjusted),1975,1,0
+Paid Subscription,Value (Adjusted),1976,1,0
+Paid Subscription,Value (Adjusted),1977,1,0
+Paid Subscription,Value (Adjusted),1978,1,0
+Paid Subscription,Value (Adjusted),1979,1,0
+Paid Subscription,Value (Adjusted),1980,1,0
+Paid Subscription,Value (Adjusted),1981,1,0
+Paid Subscription,Value (Adjusted),1982,1,0
+Paid Subscription,Value (Adjusted),1983,1,0
+Paid Subscription,Value (Adjusted),1984,1,0
+Paid Subscription,Value (Adjusted),1985,1,0
+Paid Subscription,Value (Adjusted),1986,1,0
+Paid Subscription,Value (Adjusted),1987,1,0
+Paid Subscription,Value (Adjusted),1988,1,0
+Paid Subscription,Value (Adjusted),1989,1,0
+Paid Subscription,Value (Adjusted),1990,1,0
+Paid Subscription,Value (Adjusted),1991,1,0
+Paid Subscription,Value (Adjusted),1992,1,0
+Paid Subscription,Value (Adjusted),1993,1,0
+Paid Subscription,Value (Adjusted),1994,1,0
+Paid Subscription,Value (Adjusted),1995,1,0
+Paid Subscription,Value (Adjusted),1996,1,0
+Paid Subscription,Value (Adjusted),1997,1,0
+Paid Subscription,Value (Adjusted),1998,1,0
+Paid Subscription,Value (Adjusted),1999,1,0
+Paid Subscription,Value (Adjusted),2000,1,0
+Paid Subscription,Value (Adjusted),2001,1,0
+Paid Subscription,Value (Adjusted),2002,1,0
+Paid Subscription,Value (Adjusted),2003,1,0
+Paid Subscription,Value (Adjusted),2004,1,0
+Paid Subscription,Value (Adjusted),2005,1,195.309904762
+Paid Subscription,Value (Adjusted),2006,1,261.490443452
+Paid Subscription,Value (Adjusted),2007,1,288.585325615
+Paid Subscription,Value (Adjusted),2008,1,262.896753877
+Paid Subscription,Value (Adjusted),2009,1,245.722059132
+Paid Subscription,Value (Adjusted),2010,1,249.025694317
+Paid Subscription,Value (Adjusted),2011,1,281.639931715
+Paid Subscription,Value (Adjusted),2012,1,445.276306223
+Paid Subscription,Value (Adjusted),2013,1,706.011657475
+Paid Subscription,Value (Adjusted),2014,1,831.834027499
+Paid Subscription,Value (Adjusted),2015,1,1247.676868955
+Paid Subscription,Value (Adjusted),2016,1,2390.487544774
+Paid Subscription,Value (Adjusted),2017,1,3651.028326883
+Paid Subscription,Value (Adjusted),2018,1,4740.333580635
+Paid Subscription,Value (Adjusted),2019,1,5934.397625188
+Ringtones & Ringbacks,Value (Adjusted),1973,1,0
+Ringtones & Ringbacks,Value (Adjusted),1974,1,0
+Ringtones & Ringbacks,Value (Adjusted),1975,1,0
+Ringtones & Ringbacks,Value (Adjusted),1976,1,0
+Ringtones & Ringbacks,Value (Adjusted),1977,1,0
+Ringtones & Ringbacks,Value (Adjusted),1978,1,0
+Ringtones & Ringbacks,Value (Adjusted),1979,1,0
+Ringtones & Ringbacks,Value (Adjusted),1980,1,0
+Ringtones & Ringbacks,Value (Adjusted),1981,1,0
+Ringtones & Ringbacks,Value (Adjusted),1982,1,0
+Ringtones & Ringbacks,Value (Adjusted),1983,1,0
+Ringtones & Ringbacks,Value (Adjusted),1984,1,0
+Ringtones & Ringbacks,Value (Adjusted),1985,1,0
+Ringtones & Ringbacks,Value (Adjusted),1986,1,0
+Ringtones & Ringbacks,Value (Adjusted),1987,1,0
+Ringtones & Ringbacks,Value (Adjusted),1988,1,0
+Ringtones & Ringbacks,Value (Adjusted),1989,1,0
+Ringtones & Ringbacks,Value (Adjusted),1990,1,0
+Ringtones & Ringbacks,Value (Adjusted),1991,1,0
+Ringtones & Ringbacks,Value (Adjusted),1992,1,0
+Ringtones & Ringbacks,Value (Adjusted),1993,1,0
+Ringtones & Ringbacks,Value (Adjusted),1994,1,0
+Ringtones & Ringbacks,Value (Adjusted),1995,1,0
+Ringtones & Ringbacks,Value (Adjusted),1996,1,0
+Ringtones & Ringbacks,Value (Adjusted),1997,1,0
+Ringtones & Ringbacks,Value (Adjusted),1998,1,0
+Ringtones & Ringbacks,Value (Adjusted),1999,1,0
+Ringtones & Ringbacks,Value (Adjusted),2000,1,0
+Ringtones & Ringbacks,Value (Adjusted),2001,1,0
+Ringtones & Ringbacks,Value (Adjusted),2002,1,0
+Ringtones & Ringbacks,Value (Adjusted),2003,1,0
+Ringtones & Ringbacks,Value (Adjusted),2004,1,0
+Ringtones & Ringbacks,Value (Adjusted),2005,1,551.89447619
+Ringtones & Ringbacks,Value (Adjusted),2006,1,981.286639881
+Ringtones & Ringbacks,Value (Adjusted),2007,1,1302.08712301
+Ringtones & Ringbacks,Value (Adjusted),2008,1,1160.236757964
+Ringtones & Ringbacks,Value (Adjusted),2009,1,837.504670989
+Ringtones & Ringbacks,Value (Adjusted),2010,1,525.251935283
+Ringtones & Ringbacks,Value (Adjusted),2011,1,313.9182774
+Ringtones & Ringbacks,Value (Adjusted),2012,1,162.565728249
+Ringtones & Ringbacks,Value (Adjusted),2013,1,107.548976379
+Ringtones & Ringbacks,Value (Adjusted),2014,1,71.61127201
+Ringtones & Ringbacks,Value (Adjusted),2015,1,58.874581007
+Ringtones & Ringbacks,Value (Adjusted),2016,1,59.998070883
+Ringtones & Ringbacks,Value (Adjusted),2017,1,37.040368455
+Ringtones & Ringbacks,Value (Adjusted),2018,1,25.41009037
+Ringtones & Ringbacks,Value (Adjusted),2019,1,21.426736902
+SACD,Value (Adjusted),1973,1,0
+SACD,Value (Adjusted),1974,1,0
+SACD,Value (Adjusted),1975,1,0
+SACD,Value (Adjusted),1976,1,0
+SACD,Value (Adjusted),1977,1,0
+SACD,Value (Adjusted),1978,1,0
+SACD,Value (Adjusted),1979,1,0
+SACD,Value (Adjusted),1980,1,0
+SACD,Value (Adjusted),1981,1,0
+SACD,Value (Adjusted),1982,1,0
+SACD,Value (Adjusted),1983,1,0
+SACD,Value (Adjusted),1984,1,0
+SACD,Value (Adjusted),1985,1,0
+SACD,Value (Adjusted),1986,1,0
+SACD,Value (Adjusted),1987,1,0
+SACD,Value (Adjusted),1988,1,0
+SACD,Value (Adjusted),1989,1,0
+SACD,Value (Adjusted),1990,1,0
+SACD,Value (Adjusted),1991,1,0
+SACD,Value (Adjusted),1992,1,0
+SACD,Value (Adjusted),1993,1,0
+SACD,Value (Adjusted),1994,1,0
+SACD,Value (Adjusted),1995,1,0
+SACD,Value (Adjusted),1996,1,0
+SACD,Value (Adjusted),1997,1,0
+SACD,Value (Adjusted),1998,1,0
+SACD,Value (Adjusted),1999,1,0
+SACD,Value (Adjusted),2000,1,0
+SACD,Value (Adjusted),2001,1,0
+SACD,Value (Adjusted),2002,1,0
+SACD,Value (Adjusted),2003,1,36.542277717
+SACD,Value (Adjusted),2004,1,22.466417152
+SACD,Value (Adjusted),2005,1,13.09047619
+SACD,Value (Adjusted),2006,1,6.974769345
+SACD,Value (Adjusted),2007,1,4.43977424
+SACD,Value (Adjusted),2008,1,3.681029526
+SACD,Value (Adjusted),2009,1,2.860004568
+SACD,Value (Adjusted),2010,1,1.993143504
+SACD,Value (Adjusted),2011,1,1.704842202
+SACD,Value (Adjusted),2012,1,1.494897613
+SACD,Value (Adjusted),2013,1,1.073719014
+SACD,Value (Adjusted),2014,1,0.82446336
+SACD,Value (Adjusted),2015,1,1.125529098
+SACD,Value (Adjusted),2016,1,1.28555661
+SACD,Value (Adjusted),2017,1,0.887142473
+SACD,Value (Adjusted),2018,1,0.875277267
+SACD,Value (Adjusted),2019,1,0.433302292
+Vinyl Single,Value (Adjusted),1973,1,1094.027702703
+Vinyl Single,Value (Adjusted),1974,1,1006.033630832
+Vinyl Single,Value (Adjusted),1975,1,1005.045641264
+Vinyl Single,Value (Adjusted),1976,1,1101.257130053
+Vinyl Single,Value (Adjusted),1977,1,1034.018658416
+Vinyl Single,Value (Adjusted),1978,1,1020.667440184
+Vinyl Single,Value (Adjusted),1979,1,1245.183404959
+Vinyl Single,Value (Adjusted),1980,1,775.658373786
+Vinyl Single,Value (Adjusted),1981,1,721.127115512
+Vinyl Single,Value (Adjusted),1982,1,749.750580311
+Vinyl Single,Value (Adjusted),1983,1,691.249298193
+Vinyl Single,Value (Adjusted),1984,1,734.983117421
+Vinyl Single,Value (Adjusted),1985,1,667.654433086
+Vinyl Single,Value (Adjusted),1986,1,532.074468066
+Vinyl Single,Value (Adjusted),1987,1,457.527007923
+Vinyl Single,Value (Adjusted),1988,1,389.860716822
+Vinyl Single,Value (Adjusted),1989,1,239.9877
+Vinyl Single,Value (Adjusted),1990,1,184.652033665
+Vinyl Single,Value (Adjusted),1991,1,119.944803965
+Vinyl Single,Value (Adjusted),1992,1,120.995187455
+Vinyl Single,Value (Adjusted),1993,1,90.585732872
+Vinyl Single,Value (Adjusted),1994,1,81.423821862
+Vinyl Single,Value (Adjusted),1995,1,78.341088583
+Vinyl Single,Value (Adjusted),1996,1,77.397753346
+Vinyl Single,Value (Adjusted),1997,1,56.706474766
+Vinyl Single,Value (Adjusted),1998,1,40.309109816
+Vinyl Single,Value (Adjusted),1999,1,42.814107443
+Vinyl Single,Value (Adjusted),2000,1,39.046336237
+Vinyl Single,Value (Adjusted),2001,1,45.328231508
+Vinyl Single,Value (Adjusted),2002,1,35.385543635
+Vinyl Single,Value (Adjusted),2003,1,29.872964674
+Vinyl Single,Value (Adjusted),2004,1,26.93263261
+Vinyl Single,Value (Adjusted),2005,1,17.279428571
+Vinyl Single,Value (Adjusted),2006,1,12.554584821
+Vinyl Single,Value (Adjusted),2007,1,4.933082489
+Vinyl Single,Value (Adjusted),2008,1,3.44354375
+Vinyl Single,Value (Adjusted),2009,1,2.979171425
+Vinyl Single,Value (Adjusted),2010,1,2.696605918
+Vinyl Single,Value (Adjusted),2011,1,5.228182752
+Vinyl Single,Value (Adjusted),2012,1,5.281477044
+Vinyl Single,Value (Adjusted),2013,1,3.269213385
+Vinyl Single,Value (Adjusted),2014,1,5.938887283
+Vinyl Single,Value (Adjusted),2015,1,6.205390253
+Vinyl Single,Value (Adjusted),2016,1,5.198931395
+Vinyl Single,Value (Adjusted),2017,1,6.33967756
+Vinyl Single,Value (Adjusted),2018,1,5.386196747
+Vinyl Single,Value (Adjusted),2019,1,6.795945687
