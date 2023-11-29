@@ -1,9 +1,10 @@
-# GRADUATION ADMISSION PREDICTION - EVERTON VASZELEWSKI
+# GRADUATE ADMISSION PREDICTION - EVERTON VASZELEWSKI
 # MVP SPRINT 3 - Pós-Graduação em Engenharia de Software
 
 Contém:
 
 - Notebook(Colab) contendo o processo de criação do modelo de machine learning. Para executar, acesse este [LINK](https://colab.research.google.com/drive/1NrD9zDeg5jIKn8nOZvLpRBxRjqVKDd9W) ou abra o arquivo PUCRIO_MVP_Sprint3.ipynb neste repositório.
+- Graduate Admission Dataset Kaggle page as reference and source: [Kaggle](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data)
 
 
 ---
