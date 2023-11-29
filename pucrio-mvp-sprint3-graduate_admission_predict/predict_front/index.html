@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+    <title>Graduate Admission - Everton Vaszelewski</title>
+</head>
+
+<body>
+     <!-- Cabeçalho de informações do sistema -->
+    <header>
+        <div class="title">
+            <h2>Graduate Admission - Um sistema de predição</h2>
+        </div>
+		<div class="description">
+			<h2>Este sistema tem por finalidade prover um predição de admissão ou não em universidades americanas.</h2>
+			<h3>---</h3>
+			<h3>Para obter a predição, insira abaixo os dados de acordo com os valores sugeridos em cada campo e clique em "Processar" para obter o resultado.</h3>
+			<h3>Após o processo, a coluna <b>"Chance of Admit" </b>pode imprimir duas possibilidades: <b>0</b> para <b>Negativo</b> (sem chance de admissão) e <b>1</b> para <b>Positivo</b> (tem chances de admissão)</h3>
+			<h3>Os dados "Chance of Admit" do dataset utilizados para treinar este sistema estavam em formato decimal com valores entre 0 e 100. </h3>
+			<h3>Para que fosse possível a Classificação, valores que estivessem entre 0.0 e 69.9 foram definidos como 0 (Sem chance de Admissão) e valores entre 70.0 e 100.0 foram definidos como 1 (Com chance de Admissão)</h3>
+			<h3>---</h3>
+			<h3>Este sistema utilizou como base o dataset presente neste <a href="https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data">link</a></h3>
+			<h3>Para obter informações completas do Sistema acesse o repositório no <a href="https://github.com/Vaszelewski/pucrio-mvp-sprint3-dataset">GitHub</a></h3>
+		</div>
+    </header>
+
+     <!-- Campos para popular os valores e obter predição -->
+    <section class="newCandidate">
+		<input type="text" id="newName" placeholder="Nome Completo:">
+        <input type="text" id="newGRE" placeholder="GRE Score (entre 0 e 340):">
+        <input type="text" id="newTOEFL" placeholder="TOEFL Score (entre 0 e 120)">
+        <input type="text" id="newUA" placeholder="University Rating (entre 0 e 5)">
+		<input type="text" id="newSOP" placeholder="Statement of Purpose (Valor Decimal entre 0 e 5)">
+    </section>
+	<section class="newCandidate">
+        <input type="text" id="newLOPS" placeholder="Letter of Recommendation Strenght (Valor Decimal entre 0 e 5)">
+        <input type="text" id="newUGPA" placeholder="Undergraduate GPA (Valor Decimal entre 0 e 10)">
+		<input type="text" id="newRE" placeholder="Reserch Experience (valor 0 ou 1)">
+        <span onclick="newPredict()" class="addBtn">Processar</span>
+    </section>
+
+    <!-- Resultado das predições -->
+    <section class="predictions">
+        <table id="myTable">
+            <tr>
+				<th>Nome Completo</th>
+                <th>GRE Score</th>
+                <th>TOEFL Score</th>
+                <th>University Rating</th>
+				<th>Statement of Purpose</th>
+				<th>Letter of Recommendation Strenght</th>
+                <th>Undergraduate GPA</th>
+                <th>Reserch Experience</th>
+				<th>Chance of Admit</th>
+                <th><img src="https://cdn-icons-png.flaticon.com/512/126/126468.png" width="15px" height="15px"></th>
+            </tr>
+        </table>
+    </section>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
