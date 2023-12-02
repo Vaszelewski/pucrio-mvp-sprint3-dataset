@@ -11,26 +11,65 @@ Contém:
 ## Como executar 
 
 Requisitos:
-- Certificar de que o [Docker](https://docs.docker.com/engine/install/) está instalado em sua máquina e em execução.
-- Se optar por utilizar uma interface Frontend, siga os passos deste repositório: (HAUS-Front)[https://github.com/Vaszelewski/pucrio-mvp-sprint2-haus-component-a-b/].
-
-![back c1](https://github.com/Vaszelewski/pucrio-mvp-sprint2-haus-component-c-1/assets/50892923/59c64eb0-35c4-4922-a608-f5b31f3ade67)
-
-Etapas:
+- Realizar a instalação das libs python listadas no `requirements.txt`.
+- É recomendado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
 
-1 - Clonar o repositório e descompactar da pasta .zip.
+1 - Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo:
 
-2 - Ir ao diretório raiz, onde contém o Dockerfile, e executar como administrador o seguinte comando para construir a imagem Docker:
+cd pucrio-mvp-sprint1-haus-master\haus_api
+
+2 - Instalar Virtualenv
 ```
-$ docker build -t rest-apic1 .
+$ pip install VirtualEnv
 ```
 
-3 - Após a criação da imagem, executar como adminitrador o seguinte comando para rodar o container:
+3 - Criar Virtualenv
 ```
-$ docker run -p 5000:5000 rest-apic1
+$ Virtualenv venv
+```
+
+4 - Ativar venv
+```
+$ venv\scripts\activate
+```
+
+5 - Instalar libs python
+```
+(venv)$ pip install -r requirements.txt
+```
+
+6 - Instalar Pandas
+```
+(venv)$ pip install pandas
+```
+
+7 - Instalar Numpy
+```
+(venv)$ pip install numpy
+```
+
+8 - Instalar Pytest
+```
+(venv)$ pip install pytest
+```
+
+7 - Executar API:
+
+```
+(venv)$ flask run --host 0.0.0.0 --port 5000
+```
+
+Em caso de modificações no código enquanto a API estiver rodando, utilizar o parâmetro reload, que reiniciará o servidor
+automaticamente após uma mudança no código fonte. 
+
+```
+(env)$ flask run --host 0.0.0.0 --port 5000 --reload
 ```
 
 Após seguir todos os passos, abrir o link abaixo no bavegador para verificar o status da API em execução
 - [http://localhost:5000/#/](http://localhost:5000/#/)
+
+Link para Documentação:
+- [http://127.0.0.1:5000/openapi/]
 
