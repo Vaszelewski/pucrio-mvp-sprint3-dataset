@@ -20,6 +20,7 @@ Segue abaixo os parâmetros:
 - Chance of Admit ( ranging from 0 to 1 )
 
 Os valores referentes ao campo "Chance of Admit" foram tratados e convertidos. No dataset original, os valores iam de 0.0 até 1.0, e como estamos fazendo uma classificação, não eram valores válidos. Portanto, os valores que iam de 0.0 até 0.69 receberam o valor 0 (Não aprova para processo) e valores que iam de 0.70 até 1.0 receberam o valor 1 (Aprovados no processo).
+
 ---
 ## Como executar 
 
