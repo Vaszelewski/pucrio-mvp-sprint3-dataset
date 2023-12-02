@@ -6,7 +6,20 @@ Contém:
 - Notebook(Colab) contendo o processo de criação do modelo de machine learning. Para executar, acesse este [LINK](https://colab.research.google.com/drive/1NrD9zDeg5jIKn8nOZvLpRBxRjqVKDd9W) ou abra o arquivo PUCRIO_MVP_Sprint3.ipynb neste repositório.
 - Graduate Admission Dataset Kaggle page as reference and source: [Kaggle](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data)
 
+Este projeto tem como intenção calcular a predição das chances de uma pessoa ingressar no Ensino Superior nos Estados Unidos através da perspectiva de um indiano.
+O dataset utilizado possui sete parâmetros que são relevantes e importantes durante a inscrição para programas de Mestrado, por exemplo.
+Segue abaixo os parâmetros:
 
+- GRE Scores ( out of 340 )
+- TOEFL Scores ( out of 120 )
+- University Rating ( out of 5 )
+- Statement of Purpose ( out of 5 )
+- Letter of Recommendation Strength ( out of 5 )
+- Undergraduate GPA ( out of 10 )
+- Research Experience ( either 0 or 1 )
+- Chance of Admit ( ranging from 0 to 1 )
+
+Os valores referentes ao campo "Chance of Admit" foram tratados e convertidos. No dataset original, os valores iam de 0.0 até 1.0, e como estamos fazendo uma classificação, não eram valores válidos. Portanto, os valores que iam de 0.0 até 0.69 receberam o valor 0 (Não aprova para processo) e valores que iam de 0.70 até 1.0 receberam o valor 1 (Aprovados no processo).
 ---
 ## Como executar 
 
