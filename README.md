@@ -55,7 +55,6 @@ $ venv\scripts\activate
 ```
 
 6 - Executar API:
-
 ```
 (venv)$ flask run --host 0.0.0.0 --port 5000
 ```
@@ -74,4 +73,16 @@ Link para Documentação:
 - [http://127.0.0.1:5000/openapi/]
 
 Para utilização da interface Front-End, execute o arquivo "index.html" em um navegador de sua preferência
+
+---
+## Como executar a classe de Teste
+
+1 - Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo:
+
+cd pucrio-mvp-sprint3-dataset-master\predict_api
+
+2 - Executar o comando abaixo para obter o resultado do Teste com a metodologia de classificação KNN
+```
+$ pytest –v test_modelos
+```
 
