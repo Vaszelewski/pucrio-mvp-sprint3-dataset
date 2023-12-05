@@ -26,6 +26,8 @@ Segue abaixo os parâmetros:
 
 Os valores referentes ao campo "Chance of Admit" foram tratados e convertidos. No dataset original, os valores iam de 0.0 até 1.0, e como estamos fazendo uma classificação, não eram valores válidos. Portanto, os valores que iam de 0.0 até 0.69 receberam o valor 0 (Não aprova para processo) e valores que iam de 0.70 até 1.0 receberam o valor 1 (Aprovados no processo).
 
+Em relação as boas práticas de Desenvolvimento de Software seguro, neste caso, o dataset se apresenta de forma totalmente anônima e livre de responsabilidades para com qualquer indivíduo, o mesmo apresenta apenas dados numéricos, respeitando os intervalos dos campos, sem distinção de idade, gênero, identificações ou valor de mesma natureza, portanto podemos ver um exemplo simples e aplicável para o sistema.
+
 ---
 ## Como executar predict_api e predict_front
 
