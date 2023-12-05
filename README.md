@@ -54,22 +54,7 @@ $ venv\scripts\activate
 (venv)$ pip install -r requirements.txt
 ```
 
-6 - Instalar Pandas
-```
-(venv)$ pip install pandas
-```
-
-7 - Instalar Numpy
-```
-(venv)$ pip install numpy
-```
-
-8 - Instalar Pytest
-```
-(venv)$ pip install pytest
-```
-
-7 - Executar API:
+6 - Executar API:
 
 ```
 (venv)$ flask run --host 0.0.0.0 --port 5000
