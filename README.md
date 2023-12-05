@@ -23,7 +23,7 @@ Segue abaixo os parâmetros:
 Os valores referentes ao campo "Chance of Admit" foram tratados e convertidos. No dataset original, os valores iam de 0.0 até 1.0, e como estamos fazendo uma classificação, não eram valores válidos. Portanto, os valores que iam de 0.0 até 0.69 receberam o valor 0 (Não aprova para processo) e valores que iam de 0.70 até 1.0 receberam o valor 1 (Aprovados no processo).
 
 ---
-## Como executar 
+## Como executar predict_api e predict_front
 
 Requisitos:
 - Realizar a instalação das libs python listadas no `requirements.txt`.
@@ -72,4 +72,6 @@ Após seguir todos os passos, abrir o link abaixo no bavegador para verificar o 
 
 Link para Documentação:
 - [http://127.0.0.1:5000/openapi/]
+
+Para utilização da interface Front-End, execute o arquivo "index.html" em um navegador de sua preferência
 
