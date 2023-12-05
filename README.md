@@ -7,18 +7,18 @@ Contém:
 - Página Kaggle do dataset Graduate Admission como referência e fonte: [Kaggle](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data)
 - Pasta "Original CSV Files" com o dataset original da fonte e dataset tratado (Chance Of Admit)
 
-Este projeto tem como intenção calcular a predição das chances de uma pessoa ingressar no Ensino Superior nos Estados Unidos através da perspectiva de um indiano.
+Este projeto tem como intenção calcular a predição das chances de uma pessoa ingressar no Ensino Superior nos Estados Unidos através da perspectiva de um indiano (critério especificado na descrição do dataset).
 O dataset utilizado possui sete parâmetros que são relevantes e importantes durante a inscrição para programas de Mestrado, por exemplo.
 Segue abaixo os parâmetros:
 
-- GRE Scores ( out of 340 )
-- TOEFL Scores ( out of 120 )
-- University Rating ( out of 5 )
-- Statement of Purpose ( out of 5 )
-- Letter of Recommendation Strength ( out of 5 )
-- Undergraduate GPA ( out of 10 )
-- Research Experience ( either 0 or 1 )
-- Chance of Admit ( ranging from 0 to 1 )
+- GRE Scores ( entre 0 e 340 )
+- TOEFL Scores ( entre 0 e 120 )
+- University Rating ( entre 0 e 5 )
+- Statement of Purpose ( entre 0 e 5 )
+- Letter of Recommendation Strength ( entre 0 e 5 )
+- Undergraduate GPA ( entre 0 e 10 )
+- Research Experience ( valor 0 ou 1 )
+- Chance of Admit ( valor 0 ou 1 )
 
 Os valores referentes ao campo "Chance of Admit" foram tratados e convertidos. No dataset original, os valores iam de 0.0 até 1.0, e como estamos fazendo uma classificação, não eram valores válidos. Portanto, os valores que iam de 0.0 até 0.69 receberam o valor 0 (Não aprova para processo) e valores que iam de 0.70 até 1.0 receberam o valor 1 (Aprovados no processo).
 
