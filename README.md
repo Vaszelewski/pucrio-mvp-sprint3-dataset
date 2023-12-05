@@ -1,12 +1,16 @@
 # GRADUATE ADMISSION PREDICTION - EVERTON VASZELEWSKI
 # MVP SPRINT 3 - Pós-Graduação em Engenharia de Software
 
-Contém:
+---
+## Contém
 
 - Notebook(Colab) contendo o processo de criação do modelo de machine learning. Para executar, acesse este [LINK](https://colab.research.google.com/drive/1NrD9zDeg5jIKn8nOZvLpRBxRjqVKDd9W) ou abra o arquivo PUCRIO_MVP_Sprint3.ipynb neste repositório.
 - Página Kaggle do dataset Graduate Admission como referência e fonte: [Kaggle](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data)
 - Pasta "Original CSV Files" com o dataset original da fonte e dataset tratado (Chance Of Admit)
+- Arquivos referente a aplicação Full-stack para fazer a carga do arquivo do modelo de machine learning no back-end e possibilitar a entrada de novos dados no front-end para que o modelo de classificação faça a predição da classe de saída e exibir o resultado na tela.
 
+---
+## Descrição e Contexto
 Este projeto tem como intenção calcular a predição das chances de uma pessoa ingressar no Ensino Superior nos Estados Unidos através da perspectiva de um indiano (critério especificado na descrição do dataset).
 O dataset utilizado possui sete parâmetros que são relevantes e importantes durante a inscrição para programas de Mestrado, por exemplo.
 Segue abaixo os parâmetros:
