@@ -83,7 +83,9 @@ Para utilização da interface Front-End, execute o arquivo "index.html" em um n
 
 Para a Classe de Teste, o critério para validação é a Acurácia do modelo KNN. Para aprovação, foi definido que o resultado seja maior que 0.6 (60%) de acurácia.
 
-Os dados utilizados do mesmo dataset de entrada porém reduzidos a 200 casos aleatórios do total de 400 dados do dataset original. Foram utilizados os mesmos dados pelo fato de o dataset não possuir tantos registros para divisão entre treino e teste.
+Foi utilizado 200 dados aleatórios dos 400 dados do dataset tratado. Foram utilizados os mesmos dados pelo fato de o dataset não possuir tantos registros para divisão entre treino e teste.
+
+Instruções para execução:
 
 1 - Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo:
 
