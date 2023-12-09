@@ -6,6 +6,7 @@
 
 - Notebook(Colab) contendo o processo de criação do modelo de machine learning. Para executar, acesse este [LINK](https://colab.research.google.com/drive/1NrD9zDeg5jIKn8nOZvLpRBxRjqVKDd9W) ou abra o arquivo PUCRIO_MVP_Sprint3.ipynb neste repositório.
 - Página Kaggle do dataset Graduate Admission como referência e fonte: [Kaggle](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data)
+- Video de Apresentação e Execução do Projeto no [YouTube](https://www.youtube.com/watch?v=t-cheeZpgYo)
 - Pasta "Original CSV Files" com o dataset original da fonte e dataset tratado (Chance Of Admit)
 - Arquivos referente a aplicação Full-stack para fazer a carga do arquivo do modelo de machine learning no back-end e possibilitar a entrada de novos dados no front-end para que o modelo de classificação faça a predição da classe de saída e exibir o resultado na tela.
 
